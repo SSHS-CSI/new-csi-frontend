@@ -1,0 +1,20 @@
+{
+    "name": "new-csi-frontend",
+    "scripts": {
+        "start": "parcel src/index.html"
+    },
+    "version": "0.0.1",
+    "description": "The new frontend for csi",
+    "main": "src/index.js",
+    "repository": "https://github.com/SSHS-CSI/new-csi-frontend.git",
+    "dependencies": {
+        "@material-ui/core": "^4.11.0",
+        "@reduxjs/toolkit": "^1.4.0",
+        "components": "^0.1.0",
+        "features": "^0.1.0",
+        "react": "^16.13.1",
+        "react-dom": "^16.13.1",
+        "react-redux": "^7.2.1",
+        "typeface-roboto": "^0.0.75"
+    }
+}
